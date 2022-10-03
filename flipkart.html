@@ -1,0 +1,36 @@
+<html>
+
+<head>
+  <title>Flipkart Submit Form</title>
+</head>
+
+<body>
+  <fieldset style="width: 25%;">
+    <legend>Customer details form:</legend>
+    <form>
+      <input type="text" name="name" placeholder="Name" required>
+      <input type="number" placeholder="MobileNumber" required> <br> <br>
+      <input type="number" placeholder="Pincode" maxlength="6" required>
+      <input type="text" placeholder="Locality"> <br><br>
+      <textarea cols="35" rows="4" placeholder="Address(Area and Street)"></textarea> <br><br>
+      <input type="text" placeholder="City/District/Town">
+      <select name="state" placeholder="state" required>
+        <option>-Select State-</option>
+        <option value="Andhra Pradesh">Andhra Pradesh</option>
+        <option value="Telangana">Telangana</option>
+        <option value="karnataka">Karnataka</option>
+        <option value="Tamilnadu">TamilNadu</option>
+      </select> <br /> <br />
+      <input type="text" placeholder="Landmark(optional)">
+      <input type="number" placeholder="Alternate Phone" readonly> <br><br>
+      <label for="address" name="address">Address Type:</label> <br><br>
+      <input id="address" type="radio" name="address">Home
+      <input type="radio" id="address" name="address">Work <br><br>
+      <input type="submit" value="SAVE">
+      <input type="submit" value="CANCEL">
+    </form>
+  </fieldset>
+
+</body>
+
+</html>
