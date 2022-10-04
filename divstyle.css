@@ -1,0 +1,119 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.music {
+  background-color: rgb(24, 23, 23);
+  color: white;
+  width: 380px;
+  padding: 10px 5px 5px 10px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.subtitle {
+  color: rgb(154, 151, 154);
+}
+
+.tweet-message {
+  display: inline-block;
+  box-shadow: 1px 1px 5px rgb(43, 41, 41);
+  padding: 10px 15px 10px 10px;
+  border-radius: 5px;
+  border: none;
+  vertical-align: top;
+
+}
+
+.cat3 {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+.twitter-message {
+  width: 185px;
+  padding: 10px 50px 10px 5px;
+  border: none;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  width: 70px;
+  padding: 9px;
+  background-color: rgb(73, 164, 225);
+  border-radius: 20px;
+  color: white;
+  border: none;
+  vertical-align: middle;
+}
+
+.cat4 {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
+
+.catcard {
+  display: inline-block;
+  box-shadow: 1px 1px 5px black;
+  margin-right: 10px;
+
+}
+
+.name {
+  font-weight: bold;
+  font-size: 15px;
+  margin: 5px 5px;
+}
+
+.mutual {
+  font-size: 11px;
+  color: rgb(100, 98, 98);
+  margin: 5px 5px;
+}
+
+.addfriend {
+  background-color: rgb(66, 102, 231);
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 5px;
+}
+
+.googlelogo {
+  width: 200px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.googlediv {
+  text-align: center;
+}
+
+.googlesearch {
+  width: 400px;
+  padding: 8px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0px 0px 10px 1px rgb(72, 71, 71);
+  margin-bottom: 15px;
+}
+
+.gsearch {
+  background-color: rgb(243, 241, 241);
+  padding: 8px 12px;
+  border: none;
+  font-size: 12px;
+  margin-right: 10px;
+}
