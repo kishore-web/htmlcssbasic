@@ -1,0 +1,40 @@
+.chat-container {
+  width: 50%;
+  background-image: url("./bgpic.png");
+  background-size: cover;
+  margin: auto;
+  color: white;
+
+
+}
+
+.cheading {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  text-align: center;
+  background-color: #323f4b;
+  padding: 10px 0;
+}
+
+.chatarea {
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-size: 14px;
+}
+
+.crahul {
+  background-color: #47a3f3;
+  text-align: right;
+  padding: 11px 10px;
+  border-radius: 6px 6px 0 6px;
+}
+
+.cvarakumar {
+  background-color: #52606d;
+  text-align: left;
+  padding: 10px 10px;
+  border-radius: 6px 6px 6px 0;
+}
