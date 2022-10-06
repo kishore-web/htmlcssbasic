@@ -2,23 +2,19 @@
   display: block;
   margin-bottom: 5px;
 }
-
 .message {
   display: inline-block;
   width: 200px;
   vertical-align: middle;
   margin: 0;
 }
-
 .googlelogo {
   width: 230px;
   display: block;
   margin-top: 20px;
   margin-left: 105px;
   margin-bottom: 10px;
-
 }
-
 .googlesearch {
   width: 400px;
   padding: 10px;
@@ -27,16 +23,13 @@
   box-shadow: 0px 0px 10px 1px rgb(72, 71, 71);
   margin-bottom: 15px;
 }
-
 .fname,
 .lname {
   padding: 10px 30px 10px 10px;
   border-radius: 5px;
   border: 1px solid rgb(194, 194, 194);
   margin-bottom: 10px;
-
 }
-
 .email {
   width: 324px;
   display: block;
@@ -45,7 +38,6 @@
   border: 1px solid rgb(194, 194, 194);
   font-size: 16px;
 }
-
 .signup-button {
   color: white;
   background-color: rgb(57, 130, 232);
