@@ -2,15 +2,12 @@
   background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png);
   height: 100%;
   background-size: cover;
-  ß
   display: flex;
   justify-content: end;
   flex-direction: column;
   font-family: 'Courier New', Courier, monospace
 }
-
 .text-container {
-
   font-size: 12px;
   text-align: left;
   background-color: black;
